@@ -13,3 +13,8 @@ My netlify links to all the games uploaded in the repos
 10. Tower Defence: - https://sarvesh-tower-defence.netlify.app
 
 Will Continue to come!
+
+all are web games and can be played only on the chrome browser on your pc
+
+Android games will be coming soon!
+MeanWhile Enjoy!
