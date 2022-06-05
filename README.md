@@ -11,6 +11,7 @@ My netlify links to all the games uploaded in the repos
 8. Samurai-vs-Kenji: - https://sarvesh-samurai-vs-kenji.netlify.app
 9. Frogger: - https://sarvesh-frogger.netlify.app
 10. Tower Defence: - https://sarvesh-tower-defence.netlify.app
+11. Shooter: - https://sarvesh-shooter.netlify.app
 
 Will Continue to come!
 
